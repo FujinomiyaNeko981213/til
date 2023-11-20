@@ -17,28 +17,15 @@ _1349 TILs and counting..._
 ### Categories
 
 
-* [Chrome](#chrome)
+* [Linux](#linux)
 
 ---
 
 
-### Chrome
+### Linux
 
 - [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
-- [Chrome Supports Many Unix Keyboard Shortcuts](chrome/chrome-supports-many-unix-keyboard-shortcuts.md)
-- [Copy Some Data From The Console](chrome/copy-some-data-from-the-console.md)
-- [Duplicate The Current Tab](chrome/duplicate-the-current-tab.md)
-- [Easier Access To Network Throttling Controls](chrome/easier-access-to-network-throttling-controls.md)
-- [Keybinding To Focus The Address Bar](chrome/keybinding-to-focus-the-address-bar.md)
-- [Pause JavaScript From The Source DevTools Panel](chrome/pause-javascript-from-the-source-devtools-panel.md)
-- [Navigate The Browser History With Vimium](chrome/navigate-the-browser-history-with-vimium.md)
-- [Pretty Print Tabular Data](chrome/pretty-print-tabular-data.md)
-- [Reference The Selected Node](chrome/reference-the-selected-node.md)
-- [Selecting DOM Elements Faster Than Ever](chrome/selecting-dom-elements-faster-than-ever.md)
-- [Simulating Various Connection Speeds](chrome/simulating-various-connection-speeds.md)
-- [Toggle Device Mode](chrome/toggle-device-mode.md)
-- [Toggle Open The Console Drawer](chrome/toggle-open-the-console-drawer.md)
-- [View Network Traffic For New Tabs](chrome/view-network-traffic-for-new-tabs.md)
+
 
 
 
