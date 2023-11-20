@@ -24,7 +24,7 @@ _1349 TILs and counting..._
 
 ### Linux
 
-- [Access A Value Logged To The Console](chrome/access-a-value-logged-to-the-console.md)
+- [Tar files in Linux](linux/tar-files-in-linux.md)
 
 
 
