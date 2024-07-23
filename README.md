@@ -17,6 +17,7 @@ _ TILs and counting..._
 
 * [Linux](#linux)
 * [React](#react)
+* [JavaScript](#javascript)
 
 ---
 
@@ -25,10 +26,15 @@ _ TILs and counting..._
 
 - [Tar files in Linux](linux/tar-files-in-linux.md)
 
+### JavaScript
+
+- [for-in和for-of的区别](javascript/for-in和for-of的区别.md)
+
 ### React
 
 - [npm](react/什么是npm包管理.md)
 - [类组件和函数组件](react/类组件和函数组件的区别.md)
+- [类组件中的this](react/类组件中的this.md)
 
 
 
