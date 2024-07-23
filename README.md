@@ -28,6 +28,7 @@ _ TILs and counting..._
 ### React
 
 - [npm](react/什么是npm包管理.md)
+- [类组件和函数组件](react/类组件和函数组件的区别.md)
 
 
 
