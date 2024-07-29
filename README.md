@@ -35,6 +35,10 @@ _ TILs and counting..._
 - [npm](react/什么是npm包管理.md)
 - [类组件和函数组件](react/类组件和函数组件的区别.md)
 - [类组件中的this](react/类组件中的this.md)
+- [什么是单向数据流](react/什么是单向数据流.md)
+- [ES6特性:解构](react/ES6特性:解构.md)
+- [受控组件](react/受控组件.md)
+
 
 
 
