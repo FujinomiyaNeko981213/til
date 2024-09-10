@@ -29,6 +29,7 @@ _ TILs and counting..._
 ### JavaScript
 
 - [for-in和for-of的区别](javascript/for-in和for-of的区别.md)
+- [object的最佳实践](javascript/object的最佳实践.md)
 
 ### React
 
