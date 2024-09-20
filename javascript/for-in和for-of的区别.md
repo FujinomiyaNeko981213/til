@@ -17,3 +17,4 @@ for(const i of [2,4,6,8]){
     console.log(i);
 }
 ```
+![Uploading image.png…]()
